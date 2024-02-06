@@ -1,5 +1,6 @@
 import React from "react";
 
+import Courses from "./Pages/Courses/Courses.jsx";
 import About from "./Pages/About/About";
 import Homepage from "./Pages/Homepage";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
