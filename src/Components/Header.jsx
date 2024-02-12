@@ -1,5 +1,6 @@
 import React from "react";
 import "../index.css"
+// import Contents from "src/Pages/Contentes/Contentes.jsx"
 const Header = () => {
   return (
     <>
@@ -15,7 +16,7 @@ const Header = () => {
               pave the way for a future fueled by coding excellence. Let's code,
               create, and conquer the tech landscape together!{" "}
             </p>
-            <a href="courses.html" class="btn btn-primary">
+            <a href=" " class="btn btn-primary">
               Get Started
             </a>
           </div>

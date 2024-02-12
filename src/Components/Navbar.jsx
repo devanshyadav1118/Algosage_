@@ -24,7 +24,7 @@ function Navbar() {
       }`}
     >
       <div className="container nav__container">
-        <a href="index.html">
+        <a href="/">
           <h4>AlgoSage</h4>
         </a>
         <ul className="nav__menu">
@@ -39,6 +39,9 @@ function Navbar() {
           </li>
           <li>
             <a href="/contact">Contact</a>
+          </li>
+          <li>
+            <a href="/Contentes">Test</a>
           </li>
           <li>
             <a href="/signup">SignUp /Login</a>
